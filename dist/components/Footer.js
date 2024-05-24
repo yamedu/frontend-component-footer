@@ -69,7 +69,7 @@ var SiteFooter = /*#__PURE__*/function (_React$Component) {
         className: "footer-img-logo"
       }))), /*#__PURE__*/React.createElement("span", {
         className: "copyrights"
-      }, /*#__PURE__*/React.createElement("p", null, "\xA9 Copyright \xA9 2024 Yam Education, Inc. All Rights Reserved."))), /*#__PURE__*/React.createElement("div", {
+      }, /*#__PURE__*/React.createElement("p", null, "\xA9 Copyright \xA9 2023 Yam Education, Inc. All Rights Reserved."))), /*#__PURE__*/React.createElement("div", {
         className: "footer-links"
       }, /*#__PURE__*/React.createElement("li", {
         className: "footer-nav-link"
