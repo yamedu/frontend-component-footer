@@ -56,15 +56,15 @@ class SiteFooter extends React.Component {
     		 </a>
   		</div>
   		<span className="copyrights">
-    		  <p>© Copyright © 2023 Yam Education, Inc. All Rights Reserved.</p>
+                  <p>© Copyright © 2023 Yam Education, Inc. All Rights Reserved.</p>
   		</span>
 	  </div>
 	  <div className="footer-links">
   		<li className="footer-nav-link">
-    			<a href="https://yam-edu.com/privacy"> Privacy | Policy </a>
+                      <a href="https://yam-edu.com/terms">Terms of Use</a>
   		</li>
   		<li className="footer-nav-link">
-    			<a href="https://yam-edu.com/terms"> Terms & Conditions</a>
+                       <a href="https://yam-edu.com/privacy"> Privacy Notice </a>
   		</li>
 	  </div>
 	</footer>

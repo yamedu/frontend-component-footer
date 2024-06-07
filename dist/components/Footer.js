@@ -74,12 +74,12 @@ var SiteFooter = /*#__PURE__*/function (_React$Component) {
       }, /*#__PURE__*/React.createElement("li", {
         className: "footer-nav-link"
       }, /*#__PURE__*/React.createElement("a", {
-        href: "https://yam-edu.com/privacy"
-      }, " Privacy | Policy ")), /*#__PURE__*/React.createElement("li", {
+        href: "https://yam-edu.com/terms"
+      }, "Terms of Use")), /*#__PURE__*/React.createElement("li", {
         className: "footer-nav-link"
       }, /*#__PURE__*/React.createElement("a", {
-        href: "https://yam-edu.com/terms"
-      }, " Terms & Conditions"))));
+        href: "https://yam-edu.com/privacy"
+      }, " Privacy Notice "))));
     }
   }]);
   return SiteFooter;
