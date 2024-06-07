@@ -22,7 +22,7 @@ $gray-footer: #fcfcfc !default;
     display: flex;
     gap: 23px;
     font-size: 12px;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     height: 100%;
     width: 500px;
@@ -59,7 +59,7 @@ $gray-footer: #fcfcfc !default;
   }
   .footer-links .footer-nav-link a:hover {
     color: #fff;
-    text-decoration: underline;
+    text-decoration: none;
   }
   @media screen and (max-width: 908px) {
     .footer {
@@ -79,3 +79,8 @@ $gray-footer: #fcfcfc !default;
       gap: 0px;
     }
   }
+span.copyrights p {
+    position: relative;
+    left: -18px !important;
+}
+
